@@ -1,4 +1,4 @@
-# Kuru-Fasulye Tarifi
+# Kuru-Fasulye-Tarifi
 
 Sevdiğimiz bir yemek ya da tatlının tarifini öğrendiğimiz bir web sitesini, HTML etiketlerini kullanarak yazmaya çalışmak.
 
@@ -24,7 +24,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
 
 ```cmd
 cd desktop
-mkdir Kisisel-Sayfamizi-Detaylandirmaya-Devam-Etmek
+mkdir Kuru-Fasulye-Tarifi
 code .
 ```
 
