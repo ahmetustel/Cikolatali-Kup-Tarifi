@@ -6,7 +6,7 @@ Sevdiğimiz bir yemek ya da tatlının tarifini öğrendiğimiz bir web sitesini
 
 ---
 
-Bu repo [Patika - HTML](https://app.patika.dev/courses/html) eğitimnde Ödev_3 eğitimi için oluşturduğum repodur. İçerisinde bir adet README dosyası, bir adet index.html, bir adet .gitignore dosyası ve bir adet image klasörü barındırıyor.
+Bu repo [Patika - HTML](https://app.patika.dev/courses/html) eğitiminde Ödev_3 eğitimi için oluşturduğum repodur. İçerisinde bir adet README dosyası, bir adet index.html, bir adet .gitignore dosyası ve bir adet image klasörü barındırıyor.
 
 ![Resim](/image/index.png)
 
